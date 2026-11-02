@@ -1,0 +1,1 @@
+Place image1.jpg, image2.jpg, image3.jpg and image4.jpg in this same folder as index.html. No subfolders are used.
