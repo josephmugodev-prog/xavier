@@ -6,18 +6,20 @@
 
 /* ROOT */
 :root {
-    --g: #202329;
-    --g2: #414852;
-    --gold: #a9d8f0;
-    --blue: #a9d8f0;
-    --blue-light: #eef6fb;
-    --ink: #17191d;
-    --muted: #626b75;
-    --paper: #ffffff;
-    --line: #d9dee5;
-    --head: Arial, Helvetica, sans-serif;
-    --body: Arial, Helvetica, sans-serif;
-    --container: 1200px;
+    --primary: #151c27;
+    --primary-dark: #10151e;
+    --secondary: #202329;
+    --surface: #292e37;
+
+    --accent: #b8323e;
+    --accent-hover: #982936;
+    --accent-soft: #f4e5e7;
+
+    --blue-light: #a9d8f0;
+    --white: #ffffff;
+    --text: #f2f4f7;
+    --muted: #b8c0ca;
+    --border: rgba(255, 255, 255, 0.12);
 }
 
 * {
